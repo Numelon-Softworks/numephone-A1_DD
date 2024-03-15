@@ -1,10 +1,11 @@
 # ⚙️ TWRP Sources
-Source files used to compile TWRP for the Numelon numephone A1 DD
+Source files used to compile a reliable, in-house, officially supported and maintained TWRP image for the Numelon numephone A1 DD.
 
 # ✅ To-Do List
-- `recovery.fstab`: ✅
+**RECOVERY** Root
+- `/ramdisk/etc/recovery.fstab`: ✅
     - Reviewed and uploaded to the public repository
-- `twrp.fstab`: ✅
+- `/ramdisk/etc/twrp.fstab`: ✅
     - Reviewed and uploaded to the public repository
-- `default.prop`: ❌
+- `/ramdisk/default.prop`: ❌
     - Requires moderation for uploading to the public repository

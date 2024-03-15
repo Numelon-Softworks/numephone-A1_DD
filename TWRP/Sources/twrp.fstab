@@ -58,4 +58,4 @@
 # USB OTG Unknown State
 # mount point		fstype	device													flags
 /external_sd		vfat	/dev/block/platform/mtk-msdc.0/mmcblk1p1				flags=removable;storage;display="SDCARD"
-/usb-otg			auto	/dev/block/platform/mtk-msdc.0/mt_usb					flags=removable;storage;display="USB-OTG"
+/usb-otg			auto	/dev/mtp_usb											flags=removable;storage;display="USB-OTG"
