@@ -1,4 +1,4 @@
-# 📱 Numelon numephone A1 DD
+# 📱 Numelon numephone DTK (Developer Test Kit) A1
 This repository contains all files related to the Numelon numephone A1 Development Device.
 
 - Linux Kernel
